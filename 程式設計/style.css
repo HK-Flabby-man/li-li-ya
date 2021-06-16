@@ -1,0 +1,90 @@
+@charset "utf-8";
+
+
+
+
+#first .jumbotron{
+	
+
+	height: 70vh;
+	
+}
+
+
+
+#first h1{
+
+	
+	color: brown;
+}
+
+#introfirst img
+{
+	
+	
+	width: 300px;
+}
+
+
+#introsecond
+{
+	
+	padding-top:80px;
+	
+	
+}
+
+
+#accordionExample img{
+	
+border-radius: 25px;
+
+}
+
+#QAsecond{
+margin-top: 80px;
+
+	
+}
+
+
+.accordion{
+	
+
+	box-shadow:0 0 10px rgba(255,0,0,2);
+	border-radius:5px;
+	overflow:hidden;
+	font-family:"Quicksand", sans-serif;
+	
+}
+
+
+
+.bodybg{
+
+	color:burlywood;
+	background-color:cabetblue;
+}
+
+#location{
+	padding-top: 100px;
+	padding-left: 20px;
+	
+}
+	
+.bodybg2{
+	
+	color:brown;
+	background-color: grey;
+	font-family:cursive;
+	
+}
+.bg4{
+	background-color: darkslategray;
+}
+
+
+
+
+
+	
